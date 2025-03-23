@@ -1,0 +1,4 @@
+cupy==13.4.0
+matplotlib==3.10.1
+numpy==2.2.3
+tqdm==4.67.1
